@@ -45,7 +45,7 @@
 </p>
 
 <div style="display: inline_block"><br>
-  <img align="right" alt="Vitoria" src="">
+  <img align="right" alt="Vitoria" src="https://github.com/vitoriadias1/vitoriadias1/blob/main/ezgif.com-animated-gif-maker.gif?raw=true">
 </div>
 
 #
