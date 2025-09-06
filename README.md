@@ -18,7 +18,7 @@
 
 
 ### 📱 Fale comigo:
-<div style="display: inline_block;><br>
+<div style="display: inline_block;"><br>
   <img width="200px" alt="Vitoria" src="https://github.com/vitoriadias1/vitoriadias1/blob/main/ezgif.com-animated-gif-maker.gif?raw=true">
 </div>
 
