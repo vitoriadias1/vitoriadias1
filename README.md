@@ -44,6 +44,10 @@
   />
 </p>
 
+<div style="display: inline_block"><br>
+  <img align="right" alt="Vitoria" src="">
+</div>
+
 #
 
 <picture align="center">
