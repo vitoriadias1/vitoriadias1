@@ -4,7 +4,6 @@
 - 🌐 Estudando para ser Front-end
 - 📌 Foco: HTML, CSS, JS, TypeScript e Phyton
 - 🫧 Pronomes: Ela/dela
-- 💙 Meu sênior: Wesley Belonci
 
 ### 🤖 Linguagens e Tecnologias
 <div style="display: inline_block"><br>
